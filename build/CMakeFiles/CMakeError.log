@@ -1,0 +1,390 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_c292b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:04:18 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_c292b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c292b.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c292b.dir\Debug\cmTC_c292b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c292b.dir\Debug\cmTC_c292b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c292b.dir\Debug\\" /Fd"cmTC_c292b.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c292b.dir\Debug\\" /Fd"cmTC_c292b.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_c292b.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_c292b.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_c292b.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_c292b.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.26
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_4f75b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:10:23 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_4f75b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_4f75b.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_4f75b.dir\Debug\cmTC_4f75b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_4f75b.dir\Debug\cmTC_4f75b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_4f75b.dir\Debug\\" /Fd"cmTC_4f75b.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_4f75b.dir\Debug\\" /Fd"cmTC_4f75b.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_4f75b.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_4f75b.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_4f75b.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_4f75b.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.02
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_60ff1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:16:30 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_60ff1.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_60ff1.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_60ff1.dir\Debug\cmTC_60ff1.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_60ff1.dir\Debug\cmTC_60ff1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_60ff1.dir\Debug\\" /Fd"cmTC_60ff1.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_60ff1.dir\Debug\\" /Fd"cmTC_60ff1.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_60ff1.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_60ff1.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_60ff1.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_60ff1.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.99
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_5f700.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:18:18 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_5f700.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5f700.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5f700.dir\Debug\cmTC_5f700.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5f700.dir\Debug\cmTC_5f700.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5f700.dir\Debug\\" /Fd"cmTC_5f700.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5f700.dir\Debug\\" /Fd"cmTC_5f700.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_5f700.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_5f700.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_5f700.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_5f700.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.06
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_84d91.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:19:40 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_84d91.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_84d91.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_84d91.dir\Debug\cmTC_84d91.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_84d91.dir\Debug\cmTC_84d91.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_84d91.dir\Debug\\" /Fd"cmTC_84d91.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_84d91.dir\Debug\\" /Fd"cmTC_84d91.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_84d91.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_84d91.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_84d91.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_84d91.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.32
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_32750.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:21:04 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_32750.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_32750.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_32750.dir\Debug\cmTC_32750.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_32750.dir\Debug\cmTC_32750.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_32750.dir\Debug\\" /Fd"cmTC_32750.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_32750.dir\Debug\\" /Fd"cmTC_32750.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_32750.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_32750.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_32750.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_32750.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.04
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_52267.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:23:37 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_52267.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_52267.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_52267.dir\Debug\cmTC_52267.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_52267.dir\Debug\cmTC_52267.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_52267.dir\Debug\\" /Fd"cmTC_52267.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_52267.dir\Debug\\" /Fd"cmTC_52267.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_52267.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_52267.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_52267.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_52267.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.05
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e8e67.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:24:12 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_e8e67.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e8e67.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e8e67.dir\Debug\cmTC_e8e67.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e8e67.dir\Debug\cmTC_e8e67.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e8e67.dir\Debug\\" /Fd"cmTC_e8e67.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e8e67.dir\Debug\\" /Fd"cmTC_e8e67.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_e8e67.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_e8e67.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_e8e67.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_e8e67.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.94
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_2f8a8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:34:34 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_2f8a8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_2f8a8.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_2f8a8.dir\Debug\cmTC_2f8a8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_2f8a8.dir\Debug\cmTC_2f8a8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2f8a8.dir\Debug\\" /Fd"cmTC_2f8a8.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2f8a8.dir\Debug\\" /Fd"cmTC_2f8a8.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_2f8a8.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_2f8a8.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_2f8a8.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_2f8a8.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.02
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_92476.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/3/2017 4:48:12 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_92476.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_92476.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_92476.dir\Debug\cmTC_92476.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_92476.dir\Debug\cmTC_92476.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_92476.dir\Debug\\" /Fd"cmTC_92476.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_92476.dir\Debug\\" /Fd"cmTC_92476.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_92476.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_92476.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_92476.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\CMakeFiles\CMakeTmp\cmTC_92476.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.97
+
+

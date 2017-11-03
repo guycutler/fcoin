@@ -1,0 +1,38 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/eidiv/Desktop/cryptonote/build/release/CMakeFiles/CMakeTmp
+
+Run Build Command:"D:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_294b4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 11/2/2017 4:53:17 AM.
+Project "C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\cmTC_294b4.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_294b4.dir\Debug\".
+  Creating directory "C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_294b4.dir\Debug\cmTC_294b4.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_294b4.dir\Debug\cmTC_294b4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_294b4.dir\Debug\\" /Fd"cmTC_294b4.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25507.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_294b4.dir\Debug\\" /Fd"cmTC_294b4.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\cmTC_294b4.vcxproj]
+Done Building Project "C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\cmTC_294b4.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\cmTC_294b4.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\eidiv\Desktop\cryptonote\build\release\CMakeFiles\CMakeTmp\cmTC_294b4.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.61
+
+
